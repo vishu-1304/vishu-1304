@@ -1,90 +1,120 @@
-# 👋 Hi there, I'm Vishu!
-
 <div align="center">
 
-### 🚀 Full Stack Developer | AI Enthusiast | Open Source Learner
+# 👋 Hi, I'm Vishu Singh
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Building+Modern+Web+Apps;Learning+AI+%26+Cloud;Always+Learning+Something+New" />
-</p>
+### 🚀 Full Stack Developer | AI & ML Enthusiast | AWS Certified | Open Source Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Node.js+%7C+TypeScript;Always+Building+Cool+Projects" />
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning AI, Cloud & System Design
-- 🚀 Love building scalable web applications
-- 🤝 Open to collaboration on exciting projects
-- ⚡ Believe in learning by building
+🎓 B.Tech Computer Science (AI & ML) Student at **ABES Engineering College**
 
----
+💻 Passionate about building scalable Full Stack applications.
 
-## 🛠 Tech Stack
+🤖 Interested in Artificial Intelligence, Cloud Computing, and Modern Web Development.
 
-<p align="center">
+🌱 Currently learning
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,python,java,git,github,vscode,firebase,docker" />
-
-</p>
+* Advanced React
+* System Design
+* Cloud Architecture
+* Generative AI
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
-<div align="center">
+### Languages
 
-![](https://github-readme-stats.vercel.app/api?username=vishu-1304&show_icons=true&theme=tokyonight&hide_border=true)
+JavaScript • TypeScript • Python • C • C++
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishu-1304&theme=tokyonight&hide_border=true)
+### Frontend
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishu-1304&layout=compact&theme=tokyonight&hide_border=true)
+React • HTML5 • CSS3
 
-</div>
+### Backend
 
----
+Node.js • Express.js • REST APIs • JWT Authentication
 
-## 🏆 GitHub Trophies
+### Database
 
-![](https://github-profile-trophy.vercel.app/?username=vishu-1304&theme=tokyonight&no-frame=true&row=1&column=7)
+MySQL • PostgreSQL • Prisma ORM
 
----
+### Cloud & Tools
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=vishu-1304&theme=tokyo-night)
+AWS • Git • GitHub • Render • Postman • VS Code
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-<p align="center">
+## 📝 Full Stack Blogging Platform
 
-<a href="mailto:your_email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+* React.js
+* Node.js
+* JWT Authentication
+* MySQL
 
-<a href="https://www.linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://skillicons.dev/icons?i=devto" />
-</a>
-
-</p>
+A modern blogging platform with authentication, image uploads, comments, and responsive UI.
 
 ---
 
-## 👀 Profile Views
+## 🎬 Movie Ticket Booking System
 
-<p align="center">
+* React
+* TypeScript
+* Node.js
+* PostgreSQL
+* Stripe
 
-<img src="https://komarev.com/ghpvc/?username=vishu-1304&label=Profile%20Views&color=0e75b6&style=flat" />
+Production-ready booking platform with secure authentication and payments.
 
-</p>
+---
+
+## 💻 Browser Code Editor
+
+A lightweight browser-based code editor built using Vanilla JavaScript with responsive UI.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishu-1304\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishu-1304\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishu-1304\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🏆 Achievements
+
+🏅 IBM Generative AI Virtual Intern
+
+🏅 AWS Cloud Foundations
+
+🏅 AWS Cloud Architecting
+
+🏅 AWS Machine Learning Foundations
+
+🏅 Solved 250+ DSA Problems
+
+🏅 50-Day LeetCode Streak
+
+---
+
+# 📫 Connect With Me
+
+📧 [jiyaa10singh@gmail.com](mailto:jiyaa10singh@gmail.com)
+
+💼 LinkedIn
+
+💻 GitHub: https://github.com/vishu-1304
 
 ---
 
@@ -92,6 +122,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+*"Keep Learning. Keep Building. Keep Growing."*
 
 </div>
