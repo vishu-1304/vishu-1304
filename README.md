@@ -1,120 +1,89 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Vishu Singh</h1>
 
-# 👋 Hi, I'm Vishu Singh
+<p align="center">
+  <strong>Full Stack Developer • AI & ML Student • AWS Certified</strong>
+</p>
 
-### 🚀 Full Stack Developer | AI & ML Enthusiast | AWS Certified | Open Source Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Node.js+%7C+TypeScript;Always+Building+Cool+Projects" />
-
-</div>
-
----
-
-# 💫 About Me
-
-🎓 B.Tech Computer Science (AI & ML) Student at **ABES Engineering College**
-
-💻 Passionate about building scalable Full Stack applications.
-
-🤖 Interested in Artificial Intelligence, Cloud Computing, and Modern Web Development.
-
-🌱 Currently learning
-
-* Advanced React
-* System Design
-* Cloud Architecture
-* Generative AI
+<p align="center">
+Passionate about building scalable web applications and exploring Artificial Intelligence.
+</p>
 
 ---
 
-# 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-
-JavaScript • TypeScript • Python • C • C++
-
-### Frontend
-
-React • HTML5 • CSS3
-
-### Backend
-
-Node.js • Express.js • REST APIs • JWT Authentication
-
-### Database
-
-MySQL • PostgreSQL • Prisma ORM
-
-### Cloud & Tools
-
-AWS • Git • GitHub • Render • Postman • VS Code
+- 🎓 B.Tech in Computer Science (AI & ML) at **ABES Engineering College**
+- 💻 Full Stack Developer with experience in React, Node.js and PostgreSQL
+- 🤖 Interested in Artificial Intelligence & Generative AI
+- ☁️ AWS Certified
+- 🌱 Currently learning **System Design**, **Cloud**, and **Advanced Backend Development**
+- 🚀 Always building projects and improving problem-solving skills
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-## 📝 Full Stack Blogging Platform
-
-* React.js
-* Node.js
-* JWT Authentication
-* MySQL
-
-A modern blogging platform with authentication, image uploads, comments, and responsive UI.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,cpp,html,css,mysql,postgres,git,github,aws,vscode,postman" />
+</p>
 
 ---
 
-## 🎬 Movie Ticket Booking System
+## 🚀 Featured Projects
 
-* React
-* TypeScript
-* Node.js
-* PostgreSQL
-* Stripe
+### 📝 Full Stack Blogging Platform
+- React.js
+- Node.js
+- MySQL
+- JWT Authentication
 
-Production-ready booking platform with secure authentication and payments.
-
----
-
-## 💻 Browser Code Editor
-
-A lightweight browser-based code editor built using Vanilla JavaScript with responsive UI.
+A modern blogging platform featuring authentication, image uploads, comments, and responsive UI.
 
 ---
 
-# 📊 GitHub Stats
+### 🎬 Movie Ticket Booking System
+- React
+- TypeScript
+- Node.js
+- PostgreSQL
+- Stripe
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishu-1304\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishu-1304\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishu-1304\&layout=compact\&theme=tokyonight)
-
----
-
-# 🏆 Achievements
-
-🏅 IBM Generative AI Virtual Intern
-
-🏅 AWS Cloud Foundations
-
-🏅 AWS Cloud Architecting
-
-🏅 AWS Machine Learning Foundations
-
-🏅 Solved 250+ DSA Problems
-
-🏅 50-Day LeetCode Streak
+A production-ready movie booking platform with secure authentication and online payment integration.
 
 ---
 
-# 📫 Connect With Me
+### 💻 Browser-Based Code Editor
 
-📧 [jiyaa10singh@gmail.com](mailto:jiyaa10singh@gmail.com)
+A lightweight browser-based code editor built using HTML, CSS and JavaScript with real-time editing experience.
 
-💼 LinkedIn
+---
 
-💻 GitHub: https://github.com/vishu-1304
+## 🏆 Achievements
+
+- 🏅 IBM Generative AI Virtual Intern
+- 🏅 AWS Cloud Foundations
+- 🏅 AWS Cloud Architecting
+- 🏅 AWS Machine Learning Foundations
+- 💯 Solved **250+ DSA Problems**
+- 🔥 50-Day LeetCode Streak
+
+---
+
+## 📚 Currently Learning
+
+- System Design
+- Docker
+- Kubernetes
+- AI & LLM Applications
+- Microservices
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **jiyaa10singh@gmail.com**
+- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+- 💻 GitHub: **github.com/vishu-1304**
 
 ---
 
@@ -122,6 +91,6 @@ A lightweight browser-based code editor built using Vanilla JavaScript with resp
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Keep Learning. Keep Building. Keep Growing."*
+*"Code with purpose. Build with passion."* 🚀
 
 </div>
